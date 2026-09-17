@@ -1,4 +1,4 @@
-# Comparing Byzantine attacks at matched detectability
+# Detectability-Aware Evaluation of Byzantine Attacks in Distributed Optimisation
 
 Code for the paper *Comparing Byzantine attacks at matched detectability*
 (K. Chernikov, E. Tarasova).
