@@ -1,7 +1,5 @@
 # Detectability-Aware Evaluation of Byzantine Attacks in Distributed Optimisation
 
-Code for the paper *Comparing Byzantine attacks at matched detectability*
-(K. Chernikov, E. Tarasova).
 
 Byzantine attacks on distributed optimisation are usually ranked by the harm
 they cause, with each attack run at whatever magnitude its reference
